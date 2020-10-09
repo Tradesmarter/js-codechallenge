@@ -18,6 +18,8 @@ To pass this assignment you need your solution should pass requirements:
     * Chart could include candle volume indicator
 * Layout
     * Change layout to looks close to image on scheme below ![schema](misc/schema.png)
+#### Bonus points
+* Increase new candles generation to 10 times per second instead of two times.
 
 ### Before you start
 * Create a fork of this project in your local github
