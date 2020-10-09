@@ -17,7 +17,7 @@ To pass this assignment you need your solution should pass requirements:
     * Chart should contain no more than last 50 candles on screen, don't show all candles.
     * Chart could include candle volume indicator
 * Layout
-    * Change layout to looks close to image on scheme below ![schema][misc/schema.png]
+    * Change layout to looks close to image on scheme below ![schema](misc/schema.png)
 
 ### Before you start
 * Create a fork of this project in your local github
